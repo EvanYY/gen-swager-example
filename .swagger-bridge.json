@@ -1,0 +1,18 @@
+{
+    "tenant": {
+        "url": "_****_",
+        "mock-data": false,
+        "unittest": false,
+        "exclude": [],
+        "include": [],
+        "version": "3"
+    },
+    "shop": {
+        "url": "_****_",
+        "mock-data": false,
+        "unittest": false,
+        "exclude": [],
+        "include": [],
+        "version": ""
+    }
+}
