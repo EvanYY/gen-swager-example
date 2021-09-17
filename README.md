@@ -1,6 +1,6 @@
-# swagger-bridge
+# evan-yy-swagger-bridge 案例
 
-swagger-bridge
+evan-yy-swagger-bridge
 
 注意配置swagger json文档地址 在 _****_ 处替换
 
