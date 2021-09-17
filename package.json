@@ -9,8 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "vue": "3.1.0",
-    "evan-yy-swagger-bridge": "^1.0.1"
+    "axios": "^0.19.2",
+    "evan-yy-swagger-bridge": "^1.0.1",
+    "vue": "3.1.0"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^2.33.0",
